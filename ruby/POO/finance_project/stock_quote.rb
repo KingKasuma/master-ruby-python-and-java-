@@ -14,6 +14,3 @@ class StockClass
     end
   end
 end
-
-stock_price = StockClass.price_by_symbol("AAPL")
-stock_written = StockClass.write_price_by_symbol('AAPL', stock_price.latest_price,stock_price.company_name)
