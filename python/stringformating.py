@@ -1,7 +1,1 @@
-print("""How many days are in each month::
-Januagy     -{2}
-February    -{0}
-March       -{2}
-April       -{1}
-May         -{2}
-June        -{1}""".format(28,30,31))
+print("This is a quote inside 'another quote'")
